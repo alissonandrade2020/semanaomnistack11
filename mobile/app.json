@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "DEV: Alisson de Andrade Araújo",
+    "slug": "DevAlissonAndrade",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E02041"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alisson.dev"
+    },
+    "android": {
+      "package": "com.alisson.dev" 
+    }
+  }
+}
