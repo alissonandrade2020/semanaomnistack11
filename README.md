@@ -16,8 +16,8 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <br>
@@ -52,10 +52,27 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+## Descrição:
+Autor: Alisson de Andrade Araujo"
 
----
+E-mail: alisson2d@hotmail.com
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Github: alissonandrade2020
+
+## CONHEÇA MAIS SOBRE O DEV:
+
+Site Principal do Dev: http://alissondeandradearaujo.000webhostapp.com/
+
+Site Dev: https://alissonandradesistema.000webhostapp.com/react/
+
+Site Dev: http://alissodeaaraujo.000webhostapp.com/index.html
+
+Site Dev: https://alissondeaaraujosistema.000webhostapp.com/
+
+Site Dev: https://alissonandradesistema.000webhostapp.com/
+
+Site Dev: https://alissonandradearaujosistema.000webhostapp.com/
+
+Site Dev: https://alissondeaaraujo.000webhostapp.com/index.html"
+
