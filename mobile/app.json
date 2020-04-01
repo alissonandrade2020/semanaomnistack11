@@ -1,18 +1,19 @@
 {
   "expo": {
-    "name": "DEV: Alisson de Andrade Araújo",
-    "slug": "DevAlissonAndrade",
+    "name": "Be The Hero",
+    "slug": "bethehero",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "web"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon1.png",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash1.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#E02041"
     },
@@ -23,11 +24,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.alisson.dev"
-    },
-    "android": {
-      "package": "com.alisson.dev" 
+      "supportsTablet": true
     }
   }
 }

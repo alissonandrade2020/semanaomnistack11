@@ -1,20 +1,21 @@
-import React, { useState } from "react";
-import { Link, useHistory } from "react-router-dom";
-import { FiArrowLeft } from "react-icons/fi";
+import React, { useState } from 'react';
+import { Link, useHistory } from 'react-router-dom';
+import { FiArrowLeft } from 'react-icons/fi'
 
-import "./styles.css";
+import api from '../../services/api';
 
-import api from "../../services/api";
-import logoImg from "../../assets/ads.png";
+import './styles.css';
 
-function NewIncident() {
-  const [title, setTitle] = useState("");
-  const [description, setDescription] = useState("");
-  const [value, setValue] = useState("");
+import logoImg from '../../assets/logo.svg';
+
+export default function NewIncident() {
+  const [title, setTitle] = useState('');
+  const [description, setDescription] = useState('');
+  const [value, setValue] = useState('');
 
   const history = useHistory();
 
-  const ongId = localStorage.getItem("ong_id");
+  const ongId = localStorage.getItem('ongId');
 
   async function handleNewIncident(e) {
     e.preventDefault();
@@ -22,65 +23,59 @@ function NewIncident() {
     const data = {
       title,
       description,
-      value
+      value,
     };
 
     try {
-      await api.post("incidents", data, {
+      await api.post('incidents', data, {
         headers: {
-          authorization: ongId
+          Authorization: ongId,
         }
-      });
+      })
 
-      history.push("/profile");
+      history.push('/profile');
     } catch (err) {
-      alert("Erro ao cadastrar Empresa, tente novamente.");
+      alert('Erro ao cadastrar caso, tente novamente.');
     }
   }
-
-  const logo2 = 'https://alissonandradesistema.000webhostapp.com/img/heroes.png';
 
   return (
     <div className="new-incident-container">
       <div className="content">
         <section>
-          <img src={logo2} alt="Alisson de Andrade" />
+          <img src={logoImg} alt="Be The Hero"/>
 
-          <h1>Cadastrar nova empresas</h1>
-          <p>
-           Descreva o perfil da sua empresa, fale um pouco sobre o setor, e como ela funciona.
-          </p>
+          <h1>Cadastrar novo caso</h1>
+          <p>Descreva o caso detalhadamente para encontrar um herói para resolver isso.</p>
 
-          <Link to="/profile" className="back-link">
+          <Link className="back-link" to="/profile">
             <FiArrowLeft size={16} color="#E02041" />
             Voltar para home
           </Link>
         </section>
 
         <form onSubmit={handleNewIncident}>
-          <input
-            placeholder="Empresa"
+          <input 
+            placeholder="Título do caso"
             value={title}
             onChange={e => setTitle(e.target.value)}
           />
-          <textarea
+
+          <textarea 
             placeholder="Descrição"
             value={description}
             onChange={e => setDescription(e.target.value)}
           />
-          <input
-            placeholder="Quantidade de Pessoas"
+
+          <input 
+            placeholder="Valor em reais"
             value={value}
             onChange={e => setValue(e.target.value)}
           />
 
-          <button className="button" type="submit">
-            Cadastrar
-          </button>
+          <button className="button" type="submit">Cadastrar</button>
         </form>
       </div>
     </div>
-  );
+  )
 }
-
-export default NewIncident;

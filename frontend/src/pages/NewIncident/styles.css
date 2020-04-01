@@ -28,6 +28,7 @@
 
 .new-incident-container .content section h1 {
   margin: 64px 0 32px;
+  font-size: 32px;
 }
 
 .new-incident-container .content section p {
