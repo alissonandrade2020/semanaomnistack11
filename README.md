@@ -52,29 +52,37 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-
 ## Descrição:
+
 Autor: Alisson de Andrade Araujo"
 
-E-mail: alisson2d@hotmail.com
+<h1 align="center">
+    <img alt="Aircnc" title="#delicinha" src="https://avatars3.githubusercontent.com/u/39311340?s=400&u=f8570819489cb64bb45dfbfb85f2a82f1b56d11f&v=4" width="250px" />
+</h1>
 
-Github: alissonandrade2020
+ - [Linkedin](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/)
 
-## CONHEÇA MAIS SOBRE O DEV:
+- [Instagram](https://www.instagram.com/alissonandradercc/)
 
-Site Principal do Dev: http://alissondeandradearaujo.000webhostapp.com/
+- [Github](https://github.com/alissonandrade2020/)
 
-Site Dev: https://alissonandradesistema.000webhostapp.com/react/
+## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
 
-Site Dev: https://alissonandradesistema.000webhostapp.com/reactnative
+- [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com/)
 
-Site Dev: http://alissodeaaraujo.000webhostapp.com/index.html
+ - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
 
-Site Dev: https://alissondeaaraujosistema.000webhostapp.com/
+- [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
-Site Dev: https://alissonandradesistema.000webhostapp.com/
+ - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnative)
 
-Site Dev: https://alissonandradearaujosistema.000webhostapp.com/
+- [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
 
-Site Dev: https://alissondeaaraujo.000webhostapp.com/index.html
+- [Sistema de Cadastro de Sala para alugar espaço para reuniões de empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativeaircnc)
 
+- [Sitestema de Apresentação do Trabalho ESAT/ESPEP - cadastro de alunos](https://alissondeaaraujo.000webhostapp.com/index.html)
+
+- [Site de Apresentação 2 de Alisson de Andrade Araújo](https://alissodeaaraujo.000webhostapp.com/index.html)
+
+
+:vulcan_salute::vulcan_salute: ***OBRIGADO PELO CARINHO E ATENÇÃO !!***  :vulcan_salute::vulcan_salute:
