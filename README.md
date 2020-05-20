@@ -54,7 +54,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## Descrição:
 
-Autor: Alisson de Andrade Araujo" 
+Autor: Alisson de Andrade Araujo"
 
 <h1 align="center">
     <img alt="Aircnc" title="#delicinha" src="https://avatars3.githubusercontent.com/u/39311340?s=400&u=f8570819489cb64bb45dfbfb85f2a82f1b56d11f&v=4" width="250px" />
@@ -72,7 +72,7 @@ Autor: Alisson de Andrade Araujo"
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
 
- - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com)
+ - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
  
@@ -84,7 +84,7 @@ Autor: Alisson de Andrade Araujo"
  
   - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
-- [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react)
+- [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
  - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnative)
 
