@@ -74,6 +74,8 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
+ - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app/)
+ 
  - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
  
   - [Féliz Aniversário](https://alissonandradesistema.000webhostapp.com/felizaniversario)
@@ -82,7 +84,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa)
  
-  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone/)
+  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
 - [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
@@ -94,7 +96,7 @@ Autor: Alisson de Andrade Araujo"
  
 - [Site e sistema de loja virtual - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/lojavirtual)
 
-- [Site e sistema - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/sistemas)
+- [Site e sistema - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/sistemas/)
 
 - [Sistema de Cadastro de Sala para alugar espaço para reuniões de empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativeaircnc)
 
