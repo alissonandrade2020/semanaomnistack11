@@ -1,9 +1,8 @@
 {
   "expo": {
-    "name": "DEV: Alisson de Andrade Araújo",
+    "name": "BETHEHERO: Alisson de Andrade Araújo",
     "slug": "DevAlissonAndrade",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android"
@@ -27,7 +26,7 @@
       "bundleIdentifier": "com.alisson.dev"
     },
     "android": {
-      "package": "com.alisson.dev" 
+      "package": "com.alisson.dev"
     }
   }
 }
