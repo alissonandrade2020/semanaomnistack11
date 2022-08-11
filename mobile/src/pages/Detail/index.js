@@ -13,7 +13,7 @@ export default function Detail() {
     const route = useRoute();
    
     const incident = route.params.incident;
-    const message = `Olá ${incident.name}, estou entrando em contato, para marcar uma reunião "${incident.title}", com ${Intl.NumberFormat("pt-BR", {
+    const message = `Olá ${incident.name}, estou entrando em contato, para marcar uma "${incident.title}", com ${Intl.NumberFormat("pt-BR", {
     }).format(incident.value)} pessoas.`;
 
     function navigateback() {
